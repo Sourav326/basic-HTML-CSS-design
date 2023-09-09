@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    color: #ffffff;
+}
+
+header{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: rgb(13, 209, 13);
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
