@@ -42,10 +42,13 @@ nav ul li a{
 }
 
 .right-section img{
-    width: 445px;
+    width: 100%;
     height: 160px;
     padding-bottom: 20px;
-    
+}
+
+.right-section{
+    margin-left: 74%;
 }
 
 hr{
